@@ -1,7 +1,7 @@
 # Hi I'm Srihari!
 
-![logo](https://srihari-ecru.vercel.app/logo.png)
 
+<img src="https://srihari-ecru.vercel.app/logo.png" width="300" height="300" />
 
 Welcome to my Github! Here you can find many small & big projects that are equally interesting. Feel free to check them out and try it! 
 
