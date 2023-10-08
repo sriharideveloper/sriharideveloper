@@ -9,6 +9,6 @@ Welcome to my Github! Here you can find many small & big projects that are equal
 <div>
 
 ## 🔗 Links
-### - [My Official Website](https://srihari-ecru.vercel.app/)
+### - [My Official Website](https://sriharimuralikrishnan.vercel.app)
 #### - [Instagram](https://www.instagram.com/sriharimuralikrishnan/)
 #### - [Twitter](https://twitter.com/sriharithebest)
