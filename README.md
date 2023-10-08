@@ -10,5 +10,5 @@ Welcome to my Github! Here you can find many small & big projects that are equal
 
 ## 🔗 Links
 ### - [My Official Website](https://sriharimuralikrishnan.vercel.app)
-#### - [Instagram](https://www.instagram.com/sriharimuralikrishnan/)
+#### - [Instagram](https://www.instagram.com/sriharithebest/)
 #### - [Twitter](https://twitter.com/sriharithebest)
