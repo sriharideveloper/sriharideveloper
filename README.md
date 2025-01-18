@@ -9,10 +9,6 @@
 ## 👾 Hi, I'm Srihari Muralikrishnan!
 
 <p align="center">
-  <img src="https://i.imgur.com/5jwIjfF.png" width="250" height="250" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 255, 255, 0.3);"/>
-</p>
-
-<p align="center">
   I'm a future-focused developer, working at the intersection of web development, AI, game dev, and Web3. I thrive in a world where technology meets imagination, creating clean code, immersive experiences, and innovative solutions. I aim to be part of the digital revolution.
 </p>
 
