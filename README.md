@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Future of Srihari Muralikrishnan
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc1Zjh0NTV1bjl3d2N6ZnllbW5neWxzNXo1bnA1YXpyYW55azBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" alt="Trippy Animation 2" width="100%" height="auto" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc1Zjh0NTV1bjl3d2N6ZnllbW5neWxzNXo1bnA1YXpyYW55azBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" alt="Trippy Animation" width="100%" height="auto" />
 </p>
 
 ---
@@ -34,19 +34,22 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sriharideveloper&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsdmV0Z3ltZmRteHFxNGEyd2c2cGlxZHByMXdnNW0xZ2lyNjFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J21hELiLa32WYnnmSV/giphy.gif" alt="Trippy Animation 1" width="100%" height="auto" />
 </p>
+
+---
+
+## 🏆 GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharideveloper&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharideveloper&theme=github&hide_border=true&area=true" alt="GitHub Contributions" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharideveloper&repo=github-readme-stats&theme=tokyonight" alt="Pinned Repos" width="400" />
 </p>
 
 ---
