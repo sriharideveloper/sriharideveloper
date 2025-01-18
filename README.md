@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Future of Srihari Muralikrishnan
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjloYWNqbmI4NDBvbHJkdHRmamE0bGpiZmNlN3p3a3Vjd2ptbWx4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTz2gJRh37GpDaiiyD/giphy.gif" alt="Futuristic Moon" width="300" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsdmV0Z3ltZmRteHFxNGEyd2c2cGlxZHByMXdnNW0xZ2lyNjFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J21hELiLa32WYnnmSV/giphy.gif" alt="Trippy Animation 1" width="300" height="300"/>
 </p>
 
 ---
@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://giphy.com/gifs/trippy-glas2020-tripp-J21hELiLa32WYnnmSV/giphy.gif" alt="Trippy Animation" width="300" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc1Zjh0NTV1bjl3d2N6ZnllbW5neWxzNXo1bnA1YXpyYW55azBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" alt="Trippy Animation 2" width="300" height="300"/>
 </p>
