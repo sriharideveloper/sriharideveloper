@@ -49,10 +49,9 @@
 ## 📞 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sriharithebest"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"/></a>
-  <a href="mailto:srihari@example.com"><img src="https://img.shields.io/badge/Email-Contact-red"/></a>
-  <a href="https://instagram.com/sriharithamburan"><img src="https://img.shields.io/badge/Instagram-Follow-pink"/></a>
-  <a href="https://sriharimuralikrishnan.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-green"/></a>
+  <a href="https://linkedin.com/in/sriharithebest"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/sriharithamburan"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://sriharimuralikrishnan.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
