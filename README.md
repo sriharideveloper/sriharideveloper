@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  I'm a **future-focused developer**, working at the intersection of **web development**, **AI**, **game dev**, and **Web3**. I thrive in a world where technology meets imagination, creating **clean code**, **immersive experiences**, and **innovative solutions**. I aim to be part of the **digital revolution**.
+  I'm a future-focused developer, working at the intersection of web development, AI, game dev, and Web3. I thrive in a world where technology meets imagination, creating clean code, immersive experiences, and innovative solutions. I aim to be part of the digital revolution.
 </p>
 
 ---
 
 ## 🚀 Current Endeavors
 
-- **Autila**: AI-driven chatbot tailored for teens with autism.
-- **Machine Learning**: Venturing into deep learning and reinforcement learning.
-- **Web3 & Biohacking**: Merging technology with personal growth and bio-optimization.
+- Autila: AI-driven chatbot tailored for teens with autism.
+- Machine Learning: Venturing into deep learning and reinforcement learning.
+- Web3 & Biohacking: Merging technology with personal growth and bio-optimization.
 
 ---
 
@@ -63,5 +63,5 @@
 ---
 
 <p align="center">
-  <img src="https://giphy.com/gifs/trippy-glas2020-tripp-J21hELiLa32WYnnmSV" alt="Trippy Animation" width="300" height="300"/>
+  <img src="https://giphy.com/gifs/trippy-glas2020-tripp-J21hELiLa32WYnnmSV/giphy.gif" alt="Trippy Animation" width="300" height="300"/>
 </p>
