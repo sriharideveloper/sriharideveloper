@@ -1,4 +1,4 @@
-# 🌟 Welcome to Srihari's GitHub
+# 🌟 Welcome to Srihari Muralikrishnan's World!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20World!&animation=fadeIn&type=waving&color=gradient&height=100"/>
@@ -6,33 +6,30 @@
 
 ---
 
-## 👋 Hi, I'm Srihari Thamburan!
+## 👋 Hi, I'm Srihari Muralikrishnan!
 
-<div>
-  <img src="https://sriharimuralikrishnan.vercel.app/logo.png" width="300" height="300" style="float: left; margin-right: 20px;"/>
-  <p style="float: right;">
-    I am Srihari—an aspiring entrepreneur, student, developer, and much more. I specialize in web development, particularly with React JS and Next JS, and I’m highly proficient in Python. My projects span across game development, a touch of AI, video editing, and even Web3 technologies. With hundreds of hours of hands-on experience, I aim to deliver functionality and design without compromise.
-  </p>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btXy6fNwEKv7ftu/giphy.gif" alt="Fun GIF" width="250" height="250" />
+</p>
+
+<p align="center">
+  I'm an aspiring entrepreneur, student, and developer passionate about **web development**, **game development**, **AI**, **video editing**, and **Web3** technologies. I specialize in **React.js**, **Next.js**, and **Python**, aiming to create both functional and aesthetically beautiful projects.
+</p>
 
 ---
 
-## 🔭 Current Endeavors
-- Building **Autila**, an AI chatbot for teens with mild autism.
-- Exploring advanced Python and machine learning techniques.
-- Combining biohacking and programming for enhanced personal growth.
+## 🔭 Current Projects
+
+- 🚀 **Autila**: An AI chatbot designed to help teens with mild autism.
+- 🧠 **Machine Learning**: Exploring the depths of Python and AI for smarter systems.
+- 🔬 **Biohacking & Programming**: Combining personal growth techniques with programming to unlock maximum potential.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=web3" alt="Web3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js,python,react,git,docker,web3" alt="Skills" width="350" />
 </p>
 
 ---
@@ -40,8 +37,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriharideveloper&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharideveloper&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriharideveloper&show_icons=true&theme=blue-green" alt="GitHub Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharideveloper&layout=compact&theme=blue-green" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient" />
 </p>
