@@ -31,7 +31,7 @@
 
 ## 🛠️ Libraries & Frameworks I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,express,three&theme=dark" alt="Libraries & Frameworks" width="350" />
+  <img src="https://skillicons.dev/icons?i=react,next,express&theme=dark" alt="Libraries & Frameworks" width="350" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc1Zjh0NTV1bjl3d2N6ZnllbW5neWxzNXo1bnA1YXpyYW55azBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" alt="Trippy Animation" width="auto" height="100%" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBsdmV0Z3ltZmRteHFxNGEyd2c2cGlxZHByMXdnNW0xZ2lyNjFibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J21hELiLa32WYnnmSV/giphy.gif" alt="Trippy Animation" width="100%" height="100%" />
 </p>
 
 <p align="right">
