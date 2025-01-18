@@ -36,15 +36,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sriharideveloper&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
 </p>
 
----
-
-## 🏆 GitHub Contributions
-
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharideveloper&layout=compact&theme=tokyonight&langs_count=5" alt="Top Languages" width="400" />
 </p>
 
