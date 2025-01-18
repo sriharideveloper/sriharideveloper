@@ -27,12 +27,12 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Code-Python-blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-ReactJS-lightblue" alt="ReactJS"/>
-  <img src="https://img.shields.io/badge/Tools-Git-orange" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-lightblue" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Skills-Web3-green" alt="Web3"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=web3" alt="Web3" width="50" height="50"/>
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrihariTheBest&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrihariTheBest&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriharideveloper&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharideveloper&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
