@@ -42,14 +42,14 @@
 
 ## 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vercel,netlify,figma,spline,linux&theme=dark" alt="Tools & Platforms" width="350" />
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,netlify,figma,linux&theme=dark" alt="Tools & Platforms" width="350" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="right">
+<p align="left">
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnc1Zjh0NTV1bjl3d2N6ZnllbW5neWxzNXo1bnA1YXpyYW55azBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWtVYDHIxgGgE/giphy.gif" alt="Trippy Animation" width="auto" height="100%" />
 </p>
 
